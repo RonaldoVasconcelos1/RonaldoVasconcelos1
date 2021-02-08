@@ -9,12 +9,11 @@ Sou um dev {backend} atualmente trabalho e estudo Javascript(nodejs), MongoBD, P
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
+      align="left"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=RonaldoVasconcelos1&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
       src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoVasconcelos1&repo=github-readme-stats)](https://github.com/RonaldoVasconcelos1/github-readme-stats)"
     />
   </a>
 </p>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoVasconcelos1&repo=github-readme-stats)](https://github.com/RonaldoVasconcelos1/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoVasconcelos1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
