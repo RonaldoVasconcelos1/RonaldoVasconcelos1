@@ -13,7 +13,7 @@ Sou um dev {backend} atualmente trabalho e estudo Javascript(nodejs), MongoBD, P
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ronaldo-vasconcelos&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=ronaldo-vasconcelos-847507166&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
   </a>
 </p>
