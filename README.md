@@ -3,6 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RonaldoVasconcelos1)](https://github.com/RonaldoVasconcelos1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-vasconcelos-847507166/)](https://www.linkedin.com/in/ronaldo-vasconcelos-847507166/)
 
+
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=RonaldoVasconcelos1)
 ### About me
 Sou um dev {backend} atualmente trabalho e estudo Javascript(nodejs), MongoBD, PostgreSQL KnexJs(QueryBuilder), Mongoo(elegant mongodb object modeling for node.js) 💻 ✍🏼
 
