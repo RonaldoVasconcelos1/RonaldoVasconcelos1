@@ -6,7 +6,7 @@
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=RonaldoVasconcelos1)
 ### About me
-Sou um dev {backend} atualmente trabalho e estudo Javascript(nodejs), MongoBD, PostgreSQL KnexJs(QueryBuilder), Mongoo(elegant mongodb object modeling for node.js) 💻 ✍🏼
+Sou um dev {backend} atualmente trabalho e estudo C#, SQL SERVER Entity Framework(ORM) 💻 ✍🏼
 
 
 ####                                              Linguages 💻💻
